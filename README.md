@@ -1,8 +1,6 @@
 # online-book-store
 Online Book Store Management System
-OBS-1 Fixed login issue
-OBS-2 Added search featureٍ
-OBS-3 Improved homepage UI
-OBS-4 Updated checkout page
-OBS-2 Search functionality enhancement implemented in feature branch
+OBS-5 Fix login authentication issue
+OBS-6 Add search functionality
+OBS-8 Improve checkout process
 Feature branch update for search enhancement.
